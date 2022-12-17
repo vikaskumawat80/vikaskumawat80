@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikas Kumawat, I help companies to adapt Cloud. Currently working as Solutions Consultant at Google.
+- 👋 Hi, I’m Vikas Kumawat, I help companies to adopt Cloud. Currently working as a Solutions Consultant at Google.
 - 👀 I’m interested in Cloud Computing, Learning Tech.
 - 📫 Reach me out on [vikaskumawat.dev](https://vikaskumawat.dev)
 
